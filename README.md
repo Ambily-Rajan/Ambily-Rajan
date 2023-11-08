@@ -4,7 +4,7 @@ Welcome to my GitHub profile 🙏
 
 I'm Ambily, a data enthusiast on a journey to become a proficient data analyst..
 
-## About Me 📚👩‍💻👩‍🎓
+## About Me 📚👩‍🎓👩‍💻
 
 - 📈 Aspiring Data Analyst 📊🔬
 - 📚 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning.
