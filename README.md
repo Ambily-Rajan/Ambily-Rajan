@@ -3,10 +3,10 @@ Welcome to my GitHub profile!
 I'm Ambily, a passionate data enthusiast on a quest to become a proficient data analyst. 📊 Let's connect and explore the fascinating world of data together. 
  
 
-- 🚀 Aspiring Data Analyst
-- 📈 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning
+- 🚀 Aspiring Data Analyst.
+- 📈 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning.
 - 📚 Lifelong learner, always eager to expand my knowledge
-- 💡 Passionate about uncovering insights from data
+- 💡 Passionate about uncovering insights from data.
 
 ## Skills
 
