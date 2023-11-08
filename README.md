@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello...! 👋
+Welcome to my GitHub profile!
+I'm Ambily, a passionate data enthusiast on a quest to become a proficient data analyst. 📊 Let's connect and explore the fascinating world of data together. 
+ 
 
-<!--
-**Ambily-Rajan/Ambily-Rajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Aspiring Data Analyst
+- 📈 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning
+- 📚 Lifelong learner, always eager to expand my knowledge
+- 💡 Passionate about uncovering insights from data
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the tools and technologies I excel in:
+
+- 📊 **Statistics:** Proficient in statistical analysis and hypothesis testing.
+- 📈 **Excel:** Skilled in data manipulation, visualization, and analysis.
+- 🐍 **Python:** Experienced in data manipulation, visualization, and analysis using Python.
+- 🗃️ **MySQL:** Proficient in querying and managing data.
+- 📰 **Tableau:** Skilled in creating interactive data visualizations and dashboards.
+- 🤖 **Machine Learning:** Comfortable with machine learning concepts, model development, and evaluation.
+
+
