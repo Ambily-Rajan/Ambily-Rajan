@@ -1,13 +1,13 @@
 # Hello, Data Enthusiast! 👋
 
-Welcome to my GitHub profile! I'm Ambily, a data enthusiast on a journey to become a proficient data analyst. 🚀 Let's connect and explore the fascinating world of data together.
+Welcome to my GitHub profile! I'm Ambily, a data enthusiast on a journey to become a proficient data analyst. 🚀 Let's explore the fascinating world of data together.
 
 ## About Me 📚👩‍💻👩‍🎓
 
-- 📈 Aspiring Data Analyst 📊🔬
-- 📚 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning
-- 🤓 Lifelong learner, always eager to expand my knowledge 📖🌱
-- 💡 Passionate about uncovering insights from data
+- 📈 **Aspiring Data Analyst** 📊🔬
+- 📚 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning.
+- 🤓 Lifelong learner, always eager to expand my knowledge. 📖🌱
+- 💡 Passionate about uncovering insights from data.
 
 ## Skills and Tools 🛠️
 
