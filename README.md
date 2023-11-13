@@ -6,7 +6,7 @@ I'm Ambily, a data enthusiast on a journey to become a proficient data analyst..
 
 ## About Me 📚👩‍🎓👩‍💻
 
-- 📈 Aspiring Data Analyst 📊🔬
+- 📈 Aspiring Data Scientist 📊🔬👩‍💻
 - 📚 Proficient in Statistics, Excel, Python, MySQL, Tableau, and Machine Learning.
 - 🤓 Perpetual learner, always eager to expand my knowledge. 📖🌱
 - 💡 Passionate about uncovering insights from data.
