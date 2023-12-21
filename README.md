@@ -1,4 +1,4 @@
-# Hello, Data Enthusiast! 👋
+# Hello 👋
 
 Welcome to my GitHub profile 🙏                                                                                                                                           
 
