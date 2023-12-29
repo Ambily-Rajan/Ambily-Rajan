@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile 🙏                                                                                                                                           
 
-I'm Ambily, an enthusiastic data aficionado wholeheartedly dedicated to cultivating the expertise of a skilled Data Scientist.
+I'm Ambily, an enthusiastic data aficionado wholeheartedly dedicated to cultivating the expertise of a skilled Data Scientist📖📖🔬👩‍💻.
 
 ## About Me 📚👩‍🎓👩‍💻
 
